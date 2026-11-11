@@ -1,0 +1,4 @@
+   # Default owner for everything
+   *            @MehdiAissaoui
+   # Payments team owns this folder
+   /payments/   @MehdiAissaoui
